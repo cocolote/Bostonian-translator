@@ -18,6 +18,30 @@
   background-color: #0D254C;
 }
 
+#translations-block {
+  margin-top: 20px;
+}
 fieldset {
   padding-top: 20px;
+}
+
+.translation-line,
+#translations-block {
+  display: none;
+  list-style: none;
+}
+
+.translation-line{
+  margin-top: 10px;
+  padding-left: 2em;
+  background-image: url("/src/New_England_Patriots_logo.svg");
+  background-repeat: no-repeat;
+  background-position: -0.4em;
+  background-size: 1.7em;
+}
+
+#clean-list-button {
+  float: right;
+  margin: -1.89em;
+  margin-top: -2em;
 }
