@@ -1,0 +1,23 @@
+/* Let's put some makeup! */
+/* colors => blue: #0D254C, silver: #D6D6D6, red: #C80815 */
+#large-title {
+  color: #0D254C;
+  padding-left: 90px;
+  background-image: url("/src/New_England_Patriots_logo.svg");
+  background-repeat: no-repeat;
+  background-position: -0.4em;
+  background-size: 3em;
+}
+
+.small-title {
+  color: #C80815;
+  font-weight: normal;
+}
+
+.button {
+  background-color: #0D254C;
+}
+
+fieldset {
+  padding-top: 20px;
+}
