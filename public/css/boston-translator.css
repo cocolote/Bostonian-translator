@@ -1,5 +1,10 @@
 /* Let's put some makeup! */
 /* colors => blue: #0D254C, silver: #D6D6D6, red: #C80815 */
+body {
+  background-image: url(http://sadmuffin.net/cherrybam/graphics/quotes-inspiration/inspiration045.gif);
+  background-position: right bottom;
+  background-repeat: no-repeat;
+}
 #large-title {
   color: #0D254C;
   padding-left: 90px;
